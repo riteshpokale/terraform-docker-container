@@ -2,7 +2,7 @@
 # Task 3: Provision Docker Container using Terraform
 
 ## Objective:
-Use Terraform to provision a Docker container with the Nginx image.
+Use Terraform to provision a Docker container with the Nginx image on dovker going on .
 
 ## Tools:
 - Terraform
